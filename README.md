@@ -3,4 +3,5 @@
 
 training repo
 
-hej
+Havregryn
+Sukker
